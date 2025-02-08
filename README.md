@@ -101,9 +101,4 @@ pip install -r requirements.txt
 
 This project provides a machine learning model for predicting bike rental counts in Seoul based on environmental factors. By utilizing different machine learning algorithms and preprocessing techniques, the model is capable of providing accurate predictions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can now easily copy and paste the above content. Let me know if you need any more adjustments!
